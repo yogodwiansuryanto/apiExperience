@@ -2,19 +2,19 @@
     "Experience" : [
         {
             "id" : 1,
-            "images" : "IMM.svg",
+            "images" : "asset/IMM.svg",
             "perusahaan" : "pt indominco mandiri",
             "tahun" : "Sep 2014 - Apr 2015"
         },
         {
             "id" : 2,
-            "images" : "KNE.svg",
+            "images" : "asset/KNE.svg",
             "perusahaan" : "pt kaltim nusa Etika",
             "tahun" : "Jul 2015 - Des 2019"
         },
         {
             "id" : 3,
-            "images" : "KMU.svg",
+            "images" : "asset/KMU.svg",
             "perusahaan" : "pt pupuk kaltim",
             "tahun" : "Agu 2020 - Apr 2023"
         }
